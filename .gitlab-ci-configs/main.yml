@@ -1,0 +1,4 @@
+include:
+  - local: .gitlab-ci-configs/base/stages.yml
+  - local: .gitlab-ci-configs/base/variables.yml
+  - local: 'infrastructure/martian-cloud/.gitlab-ci.yml'

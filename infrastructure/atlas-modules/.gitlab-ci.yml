@@ -1,0 +1,3 @@
+include:
+  # Tharsis module publish (push/MR only - unchanged)
+  - local: infrastructure/atlas-modules/modules/infra.gitlab-ci.yml
